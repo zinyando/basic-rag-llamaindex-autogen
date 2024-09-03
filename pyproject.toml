@@ -1,0 +1,21 @@
+[tool.poetry]
+package-mode = false
+name = "basic-rag-llamaindex-autogen"
+version = "0.1.0"
+description = "A basic RAG chatbot using Autogen and LlamaIndex"
+authors = ["Lennex Zinyando <brizdigital@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+pyautogen = "^0.2.35"
+groq = "^0.10.0"
+llama-index = "^0.11.3"
+chromadb = "^0.5.5"
+python-dotenv = "^1.0.1"
+llama-index-vector-stores-chroma = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
