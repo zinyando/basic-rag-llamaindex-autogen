@@ -2,7 +2,7 @@
 
 ## Blog post
 
-  [Building RAG Applications with Autogen and LlamaIndex: A Beginner's Guide]()
+  [Building RAG Applications with Autogen and LlamaIndex: A Beginner's Guide](https://www.zinyando.com/building-rag-applications-with-autogen-and-llamaindex-a-beginners-guide/)
 
 ## Installation
 
